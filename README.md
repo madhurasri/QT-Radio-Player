@@ -23,21 +23,17 @@ Simple cross-platform desktop application created using Qt’s QMediaPlayer Clas
 - **Element**: QLabel
 - **Functionality**: Displays the channel name when clicked on a channel icon.
 ### Channel Buttons
-**Element**: QPushButton
-
-**Functionality**: Start playing the channel when clicked on.
+- **Element**: QPushButton
+- **Functionality**: Start playing the channel when clicked on.
 ### Volume Level Indication
-**Element**: QLabel
-
-**Functionality**: Displays the current volume level.
+- **Element**: QLabel
+- **Functionality**: Displays the current volume level.
 ### Volume Controller
-**Element**: QDial
-
-**Functionality**: Controls the volume.
+- **Element**: QDial
+- **Functionality**: Controls the volume.
 ### Stop/Play Buttons
-**Element**: QPushButton
-
-**Functionality**: Stops/Starts Playing
+- **Element**: QPushButton
+- **Functionality**: Stops/Starts Playing
 
 Vertical, Horizontal, and Grid Layout elements used to design the layout of the application.
 ![layout](https://raw.githubusercontent.com/madhurasri/QT-Radio-Player/master/Screenshots/layout_elements.JPG)
