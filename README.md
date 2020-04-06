@@ -20,9 +20,8 @@ Simple cross-platform desktop application created using Qt’s QMediaPlayer Clas
 ![UI](https://raw.githubusercontent.com/madhurasri/QT-Radio-Player/master/Screenshots/GUI_Design.jpg)
 
 ### Player Status
-**Element**: QLabel
-
-**Functionality**: Displays the channel name when clicked on a channel icon.
+- **Element**: QLabel
+- **Functionality**: Displays the channel name when clicked on a channel icon.
 ### Channel Buttons
 **Element**: QPushButton
 
