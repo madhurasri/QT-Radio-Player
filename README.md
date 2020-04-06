@@ -4,8 +4,8 @@ Simple cross-platform desktop application created using Qt’s QMediaPlayer Clas
 ##Screenshots
 
 ###### on Linux
-![Windows 10](https://raw.githubusercontent.com/madhurasri/QT-Radio-Player/master/Screenshots/Linux.jpg)
+![Linux](https://raw.githubusercontent.com/madhurasri/QT-Radio-Player/master/Screenshots/Linux.png)
 ###### on Windows
 ![Windows 10](https://raw.githubusercontent.com/madhurasri/QT-Radio-Player/master/Screenshots/Windows.jpg)
 ###### on Mac
-![Windows 10](https://raw.githubusercontent.com/madhurasri/QT-Radio-Player/master/Screenshots/Mac.jpg)
+![Mac](https://raw.githubusercontent.com/madhurasri/QT-Radio-Player/master/Screenshots/Mac.png)
